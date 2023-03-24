@@ -1,2 +1,4 @@
 # Started-learing-Devops
-Practicing Devops
+$touch index.html
+git status
+git add.
